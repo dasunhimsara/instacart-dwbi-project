@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|solutionrelative:SSAS_instacart\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|solutionrelative:SSAS_instacart\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|solutionrelative:SSAS_instacart\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Datawarehouse Instacart dsv.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|solutionrelative:SSAS_instacart\\Datawarehouse Instacart dsv.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Datawarehouse Instacart dsv.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{546D82AF-ED9C-42CB-921E-CE91FD75D3FE}|SSAS_instacart\\SSAS_instacart.dwproj|solutionrelative:SSAS_instacart\\Datawarehouse Instacart dsv.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Date.dim",
+              "RelativeDocumentMoniker": "SSAS_instacart\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Date.dim [Design]",
+              "RelativeToolTip": "SSAS_instacart\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T06:55:23.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "SSAS_instacart\\Dim Customer.dim",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "SSAS_instacart\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T06:53:53.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Product.dim",
+              "RelativeDocumentMoniker": "SSAS_instacart\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Dim Product.dim [Design]",
+              "RelativeToolTip": "SSAS_instacart\\Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T06:52:01.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datawarehouse Instacart dsv.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Datawarehouse Instacart dsv.cube",
+              "RelativeDocumentMoniker": "SSAS_instacart\\Datawarehouse Instacart dsv.cube",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Datawarehouse Instacart dsv.cube [Design]",
+              "RelativeToolTip": "SSAS_instacart\\Datawarehouse Instacart dsv.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T06:51:23.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Datawarehouse Instacart dsv.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Datawarehouse Instacart dsv.dsv",
+              "RelativeDocumentMoniker": "SSAS_instacart\\Datawarehouse Instacart dsv.dsv",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SSAS_instacart\\SSAS_instacart\\Datawarehouse Instacart dsv.dsv [Design]",
+              "RelativeToolTip": "SSAS_instacart\\Datawarehouse Instacart dsv.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T06:50:38.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
