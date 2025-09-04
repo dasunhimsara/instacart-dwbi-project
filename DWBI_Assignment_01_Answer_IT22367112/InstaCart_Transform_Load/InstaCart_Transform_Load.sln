@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "InstaCart_Transform_Load", "InstaCart_Transform_Load\InstaCart_Transform_Load.dtproj", "{2FD26DC1-4E81-4ACD-A5FF-4A7B264D6F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD26DC1-4E81-4ACD-A5FF-4A7B264D6F03}.Development|Default.ActiveCfg = Development
+		{2FD26DC1-4E81-4ACD-A5FF-4A7B264D6F03}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF28B15B-4CDC-4660-A949-E60A5126D94C}
+	EndGlobalSection
+EndGlobal
